@@ -1,2 +1,2 @@
-#Lab-3
-#Eclipse and Git
+# Lab 3
+#Eclipse and GitHub
